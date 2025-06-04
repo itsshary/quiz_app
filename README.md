@@ -1,16 +1,27 @@
-# quiz_app
+# 🧠 Quiz App
 
-A new Flutter project.
+A feature-rich Flutter Quiz App built using the **MVVM architecture** and **Provider** for state management. The app allows users to test and boost their coding skills by attempting quizzes with custom difficulty levels and adding new questions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏗️ MVVM Architecture (Model-View-ViewModel)
+- 🧑‍🎓 Choose quiz difficulty (Easy, Medium, Hard)
+- ➕ Add your own quiz questions
+- 📈 Track your quiz results
+- 🎨 Light/Dark theme support
+- 📡 API service integration for dynamic quiz loading
+- 📱 Clean and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** (Dart)
+- **Provider** (State Management)
+- **MVVM Architecture**
+- **REST API** (for fetching quiz questions)
+- **Local Data Handling** (for added questions)
+
+---
